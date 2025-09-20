@@ -144,15 +144,9 @@ Kiểm tra file `logs/app.log` để xem chi tiết lỗi.
 
 MIT License - Xem file LICENSE để biết thêm chi tiết.
 
-## 📞 Hỗ trợ
-
-Nếu gặp vấn đề, vui lòng:
-1. Kiểm tra log files
-2. Đọc FAQ trong README
-3. Tạo issue trên GitHub
-
 ---
 
-**Phát triển bởi**: LOQ Team  
+**Phát triển bởi**: bodaihoang  
 **Phiên bản**: 1.0.0  
 **Ngày cập nhật**: 2025
+
